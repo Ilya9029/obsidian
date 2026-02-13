@@ -1,1 +1,2 @@
 # obsidian
+really good words
